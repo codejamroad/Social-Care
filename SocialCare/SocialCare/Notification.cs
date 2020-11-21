@@ -17,11 +17,6 @@ public class Notification {
 
     public string type;
 
-    public void Attribute1;
-
-    public void Attribute2;
-
-
 
     public void create() {
         // TODO implement here
@@ -30,7 +25,7 @@ public class Notification {
     /// <summary>
     /// @param respondersList
     /// </summary>
-    public void send(void respondersList) {
+    public void send(List<Responder> respondersList) {
         // TODO implement here
     }
 

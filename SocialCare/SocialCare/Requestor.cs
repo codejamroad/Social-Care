@@ -43,7 +43,7 @@ public class Requestor : User {
     /// <summary>
     /// @param request
     /// </summary>
-    private void findMatch(void request) {
+    private void findMatch(Request request) {
         // TODO implement here
     }
 

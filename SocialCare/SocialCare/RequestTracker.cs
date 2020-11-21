@@ -28,8 +28,4 @@ public class RequestTracker {
         // TODO implement here
     }
 
-    public void Operation1() {
-        // TODO implement here
-    }
-
 }

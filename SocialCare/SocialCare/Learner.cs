@@ -4,25 +4,25 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-public class AccountManager {
+public class Learner {
 
-    public AccountManager() {
+    public Learner() {
     }
 
-    private void availablePlatforms;
+    public List<int> parameters;
 
 
 
 
-    public void renewSubcription() {
+    public void calculateImpact() {
         // TODO implement here
     }
 
-    public void activateSubscription() {
+    public void modifyParameters() {
         // TODO implement here
     }
 
-    public void connectPlatforms() {
+    public void sendNewParameters() {
         // TODO implement here
     }
 

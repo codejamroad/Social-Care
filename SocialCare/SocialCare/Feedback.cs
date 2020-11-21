@@ -9,15 +9,14 @@ public class Feedback {
     public Feedback() {
     }
 
-
-
-
+    private int rating;
+    
 
     /// <summary>
     /// @param id 
     /// @param requestId
     /// </summary>
-    public void getRequestorFeedback(void id, void requestId) {
+    public void getRequestorFeedback(int id, int requestId, int ratingRequestor) {
         // TODO implement here
     }
 
@@ -25,7 +24,7 @@ public class Feedback {
     /// @param id 
     /// @param requestId
     /// </summary>
-    public void getResponderFeedback(void id, void requestId) {
+    public void getResponderFeedback(int id, int requestId, int ratingResponder) {
         // TODO implement here
     }
 

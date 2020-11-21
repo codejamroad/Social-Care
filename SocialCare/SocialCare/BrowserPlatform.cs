@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-public class BrowserPlatform : Login {
+public class BrowserPlatform : ILogin {
 
     public BrowserPlatform() {
     }

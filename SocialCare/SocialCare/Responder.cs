@@ -9,7 +9,7 @@ public class Responder : User {
     public Responder() {
     }
 
-    public void task_notification;
+    public Notification task_notification;
 
     public string location;
 
@@ -26,7 +26,7 @@ public class Responder : User {
     /// <summary>
     /// @return
     /// </summary>
-    public void createResponse() {
+    public Response createResponse() {
         // TODO implement here
         return null;
     }
@@ -34,7 +34,7 @@ public class Responder : User {
     /// <summary>
     /// @return
     /// </summary>
-    public void sendResponse() {
+    public Response sendResponse() {
         // TODO implement here
         return null;
     }

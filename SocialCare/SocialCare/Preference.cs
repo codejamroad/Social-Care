@@ -4,9 +4,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-public class Preferences {
+public class Preference {
 
-    public Preferences() {
+    public Preference() {
     }
 
     public string gender;

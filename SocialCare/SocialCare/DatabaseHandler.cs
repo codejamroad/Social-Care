@@ -9,11 +9,11 @@ public class DatabaseHandler {
     public DatabaseHandler() {
     }
 
-    public void userDb;
+    public UserDb userDb;
 
-    public void responderDb;
+    public ReponderDb responderDb;
 
-    public void requestDb;
+    public RequestDb requestDb;
 
 
 
@@ -36,4 +36,16 @@ public class DatabaseHandler {
         // TODO implement here
     }
 
+}
+
+public class RequestDb
+{
+}
+
+public class ReponderDb
+{
+}
+
+public class UserDb
+{
 }

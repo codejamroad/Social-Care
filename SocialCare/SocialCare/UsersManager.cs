@@ -9,7 +9,7 @@ public class UsersManager {
     public UsersManager() {
     }
 
-    private Userdb db;
+    private DatabaseHandler dbHandler;
 
 
 

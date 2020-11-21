@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-public class MobilePlatform : Login {
+public class MobilePlatform : ILogin {
 
     public MobilePlatform() {
     }

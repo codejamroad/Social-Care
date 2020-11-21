@@ -9,9 +9,9 @@ public class Matcher {
     public Matcher() {
     }
 
-    public void request;
+    public Request request;
 
-    public void learningParameters;
+    public List<int> learningParameters;
 
 
 
@@ -28,14 +28,14 @@ public class Matcher {
     /// <summary>
     /// @param request
     /// </summary>
-    public void match(void request) {
+    public void match(Request request) {
         // TODO implement here
     }
 
     /// <summary>
     /// @param request
     /// </summary>
-    private void notify(void request) {
+    private void notify(Request request) {
         // TODO implement here
     }
 

@@ -4,14 +4,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-public class Request : Requester {
+public class Request {
 
     public Request() {
     }
 
     public int requestId;
 
-    public Preferences preference;
+    public Preference Preference;
 
     public int id;
 
