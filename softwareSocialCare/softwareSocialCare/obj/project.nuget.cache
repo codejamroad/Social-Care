@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sPsjXt6kCGGkQo5egTi/17zd/qnnb8umSRsKGaskUrvkG82eUvFHjbIU0qSJS2gFAptDKhrKCizYTOdXIUA2+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Harshit\\source\\repos\\softwareSocialCare\\softwareSocialCare\\softwareSocialCare.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Harshit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Harshit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
