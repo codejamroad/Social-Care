@@ -1,0 +1,13 @@
+C:\Users\Harshit\source\repos\softwareSocialCare\softwareSocialCare\obj\Debug\netcoreapp3.1\softwareSocialCare.csprojAssemblyReference.cache
+C:\Users\Harshit\source\repos\softwareSocialCare\softwareSocialCare\obj\Debug\netcoreapp3.1\softwareSocialCare.AssemblyInfoInputs.cache
+C:\Users\Harshit\source\repos\softwareSocialCare\softwareSocialCare\obj\Debug\netcoreapp3.1\softwareSocialCare.AssemblyInfo.cs
+C:\Users\Harshit\source\repos\softwareSocialCare\softwareSocialCare\obj\Debug\netcoreapp3.1\softwareSocialCare.csproj.CoreCompileInputs.cache
+C:\Users\Harshit\source\repos\softwareSocialCare\softwareSocialCare\bin\Debug\netcoreapp3.1\softwareSocialCare.exe
+C:\Users\Harshit\source\repos\softwareSocialCare\softwareSocialCare\bin\Debug\netcoreapp3.1\softwareSocialCare.deps.json
+C:\Users\Harshit\source\repos\softwareSocialCare\softwareSocialCare\bin\Debug\netcoreapp3.1\softwareSocialCare.runtimeconfig.json
+C:\Users\Harshit\source\repos\softwareSocialCare\softwareSocialCare\bin\Debug\netcoreapp3.1\softwareSocialCare.runtimeconfig.dev.json
+C:\Users\Harshit\source\repos\softwareSocialCare\softwareSocialCare\bin\Debug\netcoreapp3.1\softwareSocialCare.dll
+C:\Users\Harshit\source\repos\softwareSocialCare\softwareSocialCare\bin\Debug\netcoreapp3.1\softwareSocialCare.pdb
+C:\Users\Harshit\source\repos\softwareSocialCare\softwareSocialCare\obj\Debug\netcoreapp3.1\softwareSocialCare.dll
+C:\Users\Harshit\source\repos\softwareSocialCare\softwareSocialCare\obj\Debug\netcoreapp3.1\softwareSocialCare.pdb
+C:\Users\Harshit\source\repos\softwareSocialCare\softwareSocialCare\obj\Debug\netcoreapp3.1\softwareSocialCare.genruntimeconfig.cache
